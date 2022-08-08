@@ -2,6 +2,4 @@
 
 
 
-## **Bootcamp Santander Full-Stack**
-
-#### Aqui você irá encontrar todo o progresso relacionado às atividades do Bootcamp Santander Full-Stack disponibilizado na plataforma da DIO (https://web.dio.me)
+Repositório contendo os desafios de projetos relacionados as implementações dos padrões de projeto envolvendo Java e Spring Framework explorados no Lab "Explorando Padrões de Projetos na Prática".
